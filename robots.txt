@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fatimashop.vercel.app/sitemap.xml
